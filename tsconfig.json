@@ -27,7 +27,7 @@
     ".next/types/**/*.ts",
     "**/*.ts",
     "**/*.tsx"
-, "app/layout.js", "app/page.js", "app/api/prompt/new/route.js", "components/Feed.js", "components/Form.js", "components/Nav.js", "components/Profile.js", "components/Provider.js"  ],
+, "app/layout.js", "app/page.js", "app/api/prompt/new/route.js", "components/Feed.js", "components/Form.js", "components/Nav.js", "components/Profile.js", "components/Provider.js", "app/create-prompt/page.js"  ],
   "exclude": [
     "node_modules"
   ]
